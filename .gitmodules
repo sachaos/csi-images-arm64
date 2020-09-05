@@ -4,4 +4,7 @@
 [submodule "node-driver-registrar"]
 	path = node-driver-registrar
 	url = git@github.com:kubernetes-csi/node-driver-registrar.git
+[submodule "external-resizer"]
+	path = external-resizer
+	url = git@github.com:kubernetes-csi/external-resizer.git
 
