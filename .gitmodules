@@ -11,3 +11,6 @@
 [submodule "external-provisioner"]
 	path = external-provisioner
 	url = git@github.com:kubernetes-csi/external-provisioner.git
+[submodule "external-snapshotter"]
+	path = external-snapshotter
+	url = git@github.com:kubernetes-csi/external-snapshotter.git
