@@ -8,3 +8,6 @@
 	path = external-resizer
 	url = git@github.com:kubernetes-csi/external-resizer.git
 
+[submodule "external-provisioner"]
+	path = external-provisioner
+	url = git@github.com:kubernetes-csi/external-provisioner.git
